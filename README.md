@@ -12,7 +12,7 @@ Login User Interface in android with innovative, beautiful and creative backgrou
 ## Contributing
 
 Please fork this repository and contribute back using
-[pull requests](https://github.com/Shashank02051997/FancyToast-Android/pulls).
+[pull requests](https://github.com/Shashank02051997/LoginUI-Android/pulls).
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
 but will be thoroughly reviewed .
