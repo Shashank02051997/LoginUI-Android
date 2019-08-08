@@ -9,8 +9,6 @@ Login User Interface in android with innovative, beautiful and creative backgrou
 
 <img src="https://github.com/Shashank02051997/LoginUI-Android/blob/master/Screenshots/Screenshot_20181211-033951.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/LoginUI-Android/blob/master/Screenshots/Screenshot_20181211-033955.png" height="600" width="300" hspace="40">
 
-### Show some :heart: and star the repo to support the project
-
 ## Contributing
 
 Please fork this repository and contribute back using
@@ -27,3 +25,5 @@ but will be thoroughly reviewed .
 
 ### Like our facebook page
 - [Android UI's Bucket](https://www.facebook.com/androiduisbucket)
+
+### Show some :heart: and star the repo to support the project
