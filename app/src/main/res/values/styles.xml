@@ -16,4 +16,19 @@
         <item name="colorAccent">@color/textInputLayout</item>
         <item name="android:textColorHint">@color/textInputLayout</item>
     </style>
+
+    <style name="TextLabel" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <!-- Label color in TRUE state and bar color FALSE and TRUE State -->
+        <item name="colorAccent">@color/purple</item>
+        <item name="colorControlNormal">@color/purple</item>
+        <item name="colorControlActivated">@color/purple</item>
+        <item name="boxStrokeColor">@color/purple</item>
+    </style>
+
+    <style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="colorPrimaryDark">@color/purple</item>
+    </style>
 </resources>
